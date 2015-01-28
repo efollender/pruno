@@ -14,7 +14,10 @@
     "gulp",
     "tasks"
   ],
-  "author": "Christian de Botton <debotton@brooklynunited.com>",
+  "author": {
+    "name": "Christian de Botton",
+    "email": "debotton@brooklynunited.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cdebotton/pruno/issues"
@@ -35,6 +38,7 @@
     "del": "^1.1.1",
     "envify": "^3.2.0",
     "eslint-stylish": "^0.2.0",
+    "express": "^4.11.1",
     "font-awesome": "^4.2.0",
     "gulp-cached": "^1.0.1",
     "gulp-concat": "^2.4.3",
@@ -77,5 +81,27 @@
     "vinyl-source-stream": "^1.0.0",
     "watchify": "^2.2.1",
     "yaml-env-config": "^1.1.0"
-  }
+  },
+  "gitHead": "beaee9d606b60023c614e15822adfa7e1d0d076d",
+  "_id": "pruno@1.10.2",
+  "_shasum": "1307772342216d163395e81c5b59ccc2de4185fc",
+  "_from": "pruno@*",
+  "_npmVersion": "2.2.0",
+  "_nodeVersion": "1.0.3",
+  "_npmUser": {
+    "name": "cdebotton",
+    "email": "debotton@brooklynunited.com"
+  },
+  "maintainers": [
+    {
+      "name": "cdebotton",
+      "email": "debotton@brooklynunited.com"
+    }
+  ],
+  "dist": {
+    "shasum": "1307772342216d163395e81c5b59ccc2de4185fc",
+    "tarball": "http://registry.npmjs.org/pruno/-/pruno-1.10.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pruno/-/pruno-1.10.2.tgz"
 }
